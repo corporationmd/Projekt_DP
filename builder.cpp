@@ -4,7 +4,7 @@
 *   www.algorytm.org                    *
 *   Opracowal Dworak Kamil              *
 *****************************************/
- 
+#include <stafx.h>
 #include <iostream>
 #include <string>
 using namespace std;
