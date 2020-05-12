@@ -1,5 +1,5 @@
 //dp state
-
+#include <stafx.h>
 #include <cstdio>
 #include <cctype>
 #include <sstream>
